@@ -1,0 +1,4 @@
+node_modules
+.env
+SENHA.txt
+.history
